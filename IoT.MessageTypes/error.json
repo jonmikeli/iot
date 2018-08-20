@@ -1,0 +1,8 @@
+﻿{
+  "code": "E1", //error code
+  "title":"title",
+  "description":"description",
+  "timestamp": 13456, //error's timestamp
+  "deviceId": "5464D940336A", //deviceId raising the error
+  "messageType": "error" //defines message type
+}
