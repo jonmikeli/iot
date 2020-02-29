@@ -1,2 +1,2 @@
-# iot
-Azure IoT Hub related code samples
+# IoT 
+IoT related pieces of code, samples, docs, etc
