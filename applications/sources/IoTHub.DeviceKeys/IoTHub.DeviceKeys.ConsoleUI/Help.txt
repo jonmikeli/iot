@@ -1,0 +1,7 @@
+﻿/* ==== HELP ====*/
+-deviceId String representing a device Id. Mandatory parameter.
+-d 'Folder path' Folder path where device keys will be stored as text files. If no folder path is set, device keys are displayed at the console output.
+-c If present in the command, creates and registers a device before providing its key.
+
+Sample:
+-deviceId "TESTD16" -d "d:\tmp\tests" -c
