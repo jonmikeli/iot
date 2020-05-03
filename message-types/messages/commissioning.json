@@ -1,0 +1,13 @@
+{
+  "deviceId": "",
+  "moduleId":"",
+  "messageType": "commissioning",
+  "timestamp": 13456,
+  "userId": "",
+  "building": {
+    "buildingId": "",
+    "floor": "",
+    "departmentId": "",
+    "roomId": null
+  }
+} 
