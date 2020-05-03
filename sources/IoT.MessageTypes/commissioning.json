@@ -1,7 +1,0 @@
-﻿{
-  "messageType": "commissioning",
-  "timestamp": 13456, //message creation setting,
-  "installationId": "8f5341-0bdb-4de9-ba03-106c2314b45c",
-  "userId": "115c10f8-1b05-4770-b9e5-ba51c0458f0a",
-  "deviceId": "5464D940336A"
-}
